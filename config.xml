@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.moodle.moodlemobile" version="3.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Moodle Mobile</name>
-  <description>Official Moodle Mobile app</description>
-  <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
+<widget id="com.moodlemobile.capacitacao360" version="3.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Capacitação 360</name>
+  <description>App Capacitação 360</description>
+  <author href="http://capacitacao360.com.br" email="contato@capacitacao360.com.br">Danilo Orlando</author>
   <content src="index.html"/>
   <access origin="*"/>
 
